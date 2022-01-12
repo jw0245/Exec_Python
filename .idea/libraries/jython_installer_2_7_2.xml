@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jython-installer-2.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/excute_python_test/pythonfiles/jython-installer-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Mydata/jep-master/jep-master/build/java/jep-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
