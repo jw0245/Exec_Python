@@ -5,7 +5,7 @@ import jep.SubInterpreter;
 
 import java.io.File;
 
-public class Jep_Test2 {
+public class Test_Jep_exec {
 
     public boolean TestJep(String path){
 
@@ -22,7 +22,8 @@ public class Jep_Test2 {
     }
     public static void main(String[] args) {
 
-        Jep_Test2 test2 = new Jep_Test2();
-        System.out.println(test2.TestJep(".\\pythonfiles\\Test1.py"));
+        Jep_test2 test2 = new Jep_test2();
+        System.out.println(test2.TestJep(".\\pythonfiles\\TestingPy.py"));
     }
+
 }

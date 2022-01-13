@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Buffered_Readline {
+public class Execute_py {
 
     public void Execpython(String execPath)  {
 
@@ -13,6 +13,7 @@ public class Buffered_Readline {
             try {
                 long start, end;
                 String line;
+
                 // n 결과 열 index
                 int n = 1;
 
