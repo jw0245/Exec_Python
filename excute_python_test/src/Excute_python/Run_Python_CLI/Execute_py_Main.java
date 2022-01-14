@@ -6,6 +6,6 @@ public class Execute_py_Main {
         /// execPath는 CLI 입력문구
         String execPath ="python .\\pythonfiles\\fake_test.py";
         Execute_py executepy = new Execute_py();
-        executepy.Execpy_run(execPath);
+        executepy.Execpython(execPath);
     }
 }

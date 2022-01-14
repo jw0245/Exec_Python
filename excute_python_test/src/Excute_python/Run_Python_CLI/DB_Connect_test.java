@@ -5,6 +5,6 @@ public class DB_Connect_test {
         /// execPath는 CLI 입력문구
         String execPath ="python .\\pythonfiles\\Mysql_connect.py";
         Execute_py executepy = new Execute_py();
-        executepy.Execpy_run(execPath);
+        executepy.Execpython(execPath);
     }
 }

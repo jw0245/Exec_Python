@@ -7,6 +7,6 @@ public class Test_python_execute {
         /// execPath는 CLI 입력문구
         String execPath ="python .\\pythonfiles\\TestingPy.py";
         Execute_py executepy = new Execute_py();
-        executepy.Execpy_run(execPath);
+        executepy.Execpython(execPath);
     }
 }
