@@ -4,8 +4,9 @@ public class Execute_py_Main {
 
     public static void main(String[] args) {
         /// execPath는 CLI 입력문구
-        String execPath ="python .\\pythonfiles\\fake_test.py";
+        String execPath ="python C:\\Mydata\\Res_log\\Res_data\\Anonymization_data.py";
         Execute_py executepy = new Execute_py();
         executepy.Execpython(execPath);
     }
 }
+
